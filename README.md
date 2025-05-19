@@ -1,2 +1,2 @@
-# chatbot-template
-This is the chatbot template
+# BeibeiamigosGPT
+This is a ChatGPT digital assistant
