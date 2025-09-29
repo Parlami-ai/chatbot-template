@@ -4,3 +4,7 @@ gunicorn==23.0.0
 openai==1.74.0
 python-dotenv==1.0.1
 supabase
+postgrest
+realtime
+storage3
+gotrue
