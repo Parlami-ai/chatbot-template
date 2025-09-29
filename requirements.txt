@@ -3,8 +3,8 @@ flask-cors==5.0.1
 gunicorn==23.0.0
 openai==1.74.0
 python-dotenv==1.0.1
-supabase
-postgrest
-realtime
-storage3
-gotrue
+supabase==2.20.0
+postgrest==0.10.6
+realtime==1.0.2
+storage3==0.5.3
+gotrue==1.2.0
